@@ -1,0 +1,3 @@
+﻿  163334246_Program2.cpp
+C:\Users\Chetan\source\repos\163334246_Program2\163334246_Program2\163334246_Program2.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  163334246_Program2.vcxproj -> C:\Users\Chetan\source\repos\163334246_Program2\Debug\163334246_Program2.exe
